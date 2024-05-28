@@ -38,7 +38,7 @@ Antes de executar o script, certifique-se de ter as seguintes ferramentas instal
 Edite o script `main.py` e defina a URL do YouTube (pode ser uma playlist ou vídeo único):
 
 ```python
-youtube_url = 'https://youtu.be/w13aeOGO3ZI?si=Ql8fUTo2OEEslJ39'
+youtube_url = 'https://www.youtube.com'
 ```
 
 Execute o script:
